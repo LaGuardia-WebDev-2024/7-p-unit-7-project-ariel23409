@@ -1,13 +1,15 @@
 body {
-  background-color: black;
+  background-color: pink;
   text-align: center;
   color: white;
+  font-family: cursive; 
+  
 }
 
 
 #myCanvas {
-  background-image: url("https://images.pexels.com/photos/1387577/pexels-photo-1387577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
-  background-size: 400px;
+  background-image: url("https://pikwizard.com/pw/medium/f281f9f3461dee2a3334519696a28c10.jpg");
+  background-size: 400px 400px;
   border-radius: 30px;
   border: 1px solid rgb(255,245,227);
 }
